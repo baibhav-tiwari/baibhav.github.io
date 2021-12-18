@@ -1,6 +1,7 @@
 # baibhav.github.io
-this is my first project on github.
-this is just a web-page or you can say my-portfolio.
-which i have created using HTML,CSS and JAVASCRIPT.
-*HOPE YOU LIKE IT*
-💭
+ 💭 this is my first project on github.
+    this is just a web-page or you can say my-portfolio.
+    which i have created using HTML,CSS and JAVASCRIPT.
+    *HOPE YOU LIKE IT*💭
+
+here's the deployment :https://baibhav-tiwari.github.io/baibhav.github.io/
